@@ -1,0 +1,131 @@
+{ 
+    "codes" : [
+
+    {
+        "currency1" : "CAD",
+        "currency2" : "CAD"
+    },
+    {
+        "currency1" : "HKD",
+        "currency2" : "HKD"
+    },
+    {
+        "currency1" : "ISK",
+        "currency2" : "ISK"
+    },
+    {
+        "currency1" : "PHP",
+        "currency2" : "PHP"
+    },
+    {
+        "currency1" : "DKK",
+        "currency2" : "DKK"
+    },
+    {
+        "currency1" : "HUF",
+        "currency2" : "HUF"
+    },
+    {
+        "currency1" : "CZK",
+        "currency2" : "CZK"
+    },
+    {
+        "currency1" : "AUD",
+        "currency2" : "AUD"
+    },
+    {
+        "currency1" : "RON",
+        "currency2" : "RON"
+    },
+    {
+        "currency1" : "IDR",
+        "currency2" : "IDR"
+    },
+    {
+        "currency1" : "INR",
+        "currency2" : "INR"
+    },
+    {
+        "currency1" : "BRL",
+        "currency2" : "BRL"
+    },
+    {
+        "currency1" : "RUB",
+        "currency2" : "RUB"
+    },
+    {
+        "currency1" : "HRK",
+        "currency2" : "HRK"
+    },
+    {
+        "currency1" : "JPY",
+        "currency2" : "JPY"
+    },
+    {
+        "currency1" : "THB",
+        "currency2" : "THB"
+    },
+    {
+        "currency1" : "CHF",
+        "currency2" : "CHF"
+    },
+    {
+        "currency1" : "SGD",
+        "currency2" : "SGD"
+    },
+    {
+        "currency1" : "PLN",
+        "currency2" : "PLN"
+    },
+    {
+        "currency1" : "BGN",
+        "currency2" : "BGN"
+    },
+    {
+        "currency1" : "TRY",
+        "currency2" : "TRY"
+    },
+    {
+        "currency1" : "CNY",
+        "currency2" : "CNY"
+    },
+    {
+        "currency1" : "NOK",
+        "currency2" : "NOK"
+    },
+    {
+        "currency1" : "NZD",
+        "currency2" : "NZD"
+    },
+    {
+        "currency1" : "ZAR",
+        "currency2" : "ZAR"
+    },
+    {
+        "currency1" : "USD",
+        "currency2" : "USD"
+    },
+    {
+        "currency1" : "MXN",
+        "currency2" : "MXN"
+    },
+    {
+        "currency1" : "ILS",
+        "currency2" : "ILS"
+    },
+    {
+        "currency1" : "GBP",
+        "currency2" : "GBP"
+    },
+    {
+        "currency1" : "KRW",
+        "currency2" : "KRW"
+    },
+    {
+        "currency1" : "MYR",
+        "currency2" : "MYR"
+    }  
+
+
+]
+}
