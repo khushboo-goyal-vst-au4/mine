@@ -1,0 +1,31 @@
+[
+    {
+        "itemName": "Fur Hoodie",
+        "pricePerItem": "Rs. 910"
+    },
+
+    {
+        "itemName": "Black Hoodie",
+        "pricePerItem": "Rs. 900"
+    },
+
+    {
+        "itemName": "Red Hoodie",
+        "pricePerItem": "Rs. 840"
+    },
+
+    {
+        "itemName": "rainbow Hoodie",
+        "pricePerItem": "Rs. 890"
+    },
+
+    {
+        "itemName": "cute Hoodie",
+        "pricePerItem": "Rs. 850"
+    },
+
+    {
+        "itemName": "basic Hoodie",
+        "pricePerItem": "Rs. 900"
+    }
+]
